@@ -1,0 +1,6 @@
+# Ignore xlmr tokenizer directory
+xlmr_tokenizer/
+
+# Ignore saved models directory 
+saved_models/
+
